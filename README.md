@@ -1,2 +1,1 @@
-# RealEstateDataAnalysis
-INSERT  ABSTRACT ONCE FINISHED
+Housing costs in recent years seem to have skyrocketed far beyond ordinary levels. This has stirred unrest among homeowners and renters alike, who must front these necessary expenditures. Existing research into the current housing crisis fails to consider the immediate needs of consumers, instead relying on sentiment and day-by-day price movements.  This report aims to use market data to reveal the extent of the crisis, predict movements in the next several years, and offer solutions for consumers looking to purchase now. 
